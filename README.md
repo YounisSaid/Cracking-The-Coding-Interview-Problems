@@ -59,8 +59,8 @@ This is a personal learning project, but feel free to fork, star, or open an iss
 
 ## 📬 Contact
 
-- GitHub:[YounisSaid](https://github.com/YounisSaid)
-- LinkedIn: [YounisSaid)](https://www.linkedin.com/in/younis-said/)
+- GitHub:[  Younis Said](https://github.com/YounisSaid)
+- LinkedIn: [  Younis Said](https://www.linkedin.com/in/younis-said/)
 
 ---
 
