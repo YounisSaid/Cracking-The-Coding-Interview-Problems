@@ -60,7 +60,7 @@ This is a personal learning project, but feel free to fork, star, or open an iss
 ## 📬 Contact
 
 - GitHub:[(https://github.com/your_username)](https://github.com/YounisSaid)
-- LinkedIn: [[your_linkedin](https://linkedin.com/in/your_username)](https://www.linkedin.com/in/younis-said/)
+- LinkedIn: [(https://linkedin.com/in/your_username)](https://www.linkedin.com/in/younis-said/)
 
 ---
 
